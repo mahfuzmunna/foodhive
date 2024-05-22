@@ -1,6 +1,34 @@
-### FoodHive -> Food Ordering App for Android
-#### with JetpackCompose & Material3
+
+# FoodHive - Food Ordering App for Android
+
+The app is focused on providing a clear and concise approach to order food from nearby restaurants.
 
 
-##### Resources
-Figma : [@figma/FoodHive - Food Ordering App.fig](https://www.figma.com/design/9KiyAQbyYb63x3VEnwE5lj/FoodHive---Food-Ordering-App?node-id=3%3A86&t=bBEKu2q0jakI2LGr-1)
+## Features
+
+- Material3 UI Design
+- Dynamic theming option
+- Completely built with Jetpack compose
+- Reusable code & UI components.
+- Clean code.
+
+
+
+## Roadmap
+
+- Design in Figma
+
+- FOSS prototype with Jetpack Compose
+
+- FOSS prototype with Flutter
+
+- Web-App
+
+- Admin Panel (in-web)
+
+- Restaurants Panel (separate application)
+
+
+## 🚀 About Me
+I'm a android developer and I'm constantly looking forward to new technologies and ideas to work with.
+
