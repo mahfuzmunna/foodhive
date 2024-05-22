@@ -2,4 +2,10 @@
 <resources>
 
     <style name="Theme.FoodHive" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.FoodHive.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.FoodHive</item>
+<!--        <item name="windowSplashScreenBackground"></item>-->
+    </style>
 </resources>
